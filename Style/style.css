@@ -1,0 +1,92 @@
+
+body{
+    background-color:#333;
+}
+.disponible-vip{
+border-color: #000;
+margin-top:10px;
+padding: 10px;
+border-top-left-radius: 20px;
+border-top-right-radius: 20px;
+background-color: rgba(69, 207, 35, 0.5);
+border-width: 10px;
+color: #fff;
+font-size:large;
+text-align: center;
+width: 70px;
+height: 50px;
+border-width:2px ;
+margin-left: 65px;
+}
+.disponible-vip:hover{
+    background-color: rgba(59, 156, 29, 0.6); 
+}
+.ocupado-vip{
+    border-color: #000;
+margin-top:10px;
+padding: 10px;
+border-top-left-radius: 20px;
+border-top-right-radius: 20px;
+background-color: rgba(56, 69, 146, 0.8);
+border-width: 10px;
+color: #fff;
+font-size:large;
+text-align: center;
+width: 70px;
+height: 50px;
+border-width:2px ;
+margin-left: 65px;
+}
+.ocupado{
+    border-color: #000;
+margin-top:10px;
+padding: 10px;
+border-top-left-radius: 20px;
+border-top-right-radius: 20px;
+background-color: rgba(56, 69, 146, 0.8);
+border-width: 10px;
+color: #fff;
+font-size:large;
+text-align: center;
+width: 70px;
+height: 50px;
+border-width:2px ;
+margin-left: 65px;
+}
+.ocupado-vip:hover {
+    background-color: rgba(56, 69, 146, 0.9); 
+}
+.ocupado:hover {
+    background-color: rgba(56, 69, 146, 0.9); 
+}
+.disponible{
+    border-color: #000;
+margin-top:10px;
+padding: 10px;
+border-top-left-radius: 20px;
+border-top-right-radius: 20px;
+background-color: rgba(84, 90, 83, 0.8);
+border-width: 10px;
+color: #fff;
+font-size:large;
+text-align: center;
+width: 70px;
+height: 50px;
+border-width:2px ;
+margin-left: 65px;
+    }
+    .disponible:hover{
+        background-color: rgba(84, 90, 83, 0.9);
+    }
+    .descripcion-asientos{
+        text-align: center;
+        color: #fff;
+        padding: 10px;
+        margin-left: 60px;
+    }
+    .texto-form{
+        color: #fff;
+        margin-top: 20px;
+        font-size:large;
+        
+    }
